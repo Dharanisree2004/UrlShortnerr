@@ -10,8 +10,7 @@ URL Shortener is a service that shortens a long URL into a short URL which is ea
 * Spring Boot
 * Spring Security
 * Spring Data JPA
-* PostgreSQL
-* FlywayDb Migrations
+* MySQL
 * Thymeleaf
 * Bootstrap CSS
 
